@@ -5,4 +5,5 @@
 
  - **git status** : check status of git (is it in the staging area? Ex)
  - **git diff** : shows changes
- 
+
+ # Ending Header
